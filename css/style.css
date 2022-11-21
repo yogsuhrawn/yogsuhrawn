@@ -1,0 +1,11 @@
+body{
+	font-family: 'Ubuntu', sans-serif;
+}
+.custom-links{
+	text-decoration: none;
+	color: #000;
+}
+.foot{
+	position: absolute;
+	bottom: 10px;
+}
